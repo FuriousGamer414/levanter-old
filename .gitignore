@@ -1,0 +1,7 @@
+*.log
+*.db
+*.env
+plugins/test.js
+word.txt
+.cache
+config.json
